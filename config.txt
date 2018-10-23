@@ -1,6 +1,6 @@
 token= NDk0NzkzODM3Mjk0NzgwNDE4.DrFAQg.-Xls8tamteIxh3YTqa6EsLZKG7w
 owner= 503324987898200074 
 prefix= s
-game= آن لم يكن هناك حقاد لم يكن هناك فوز 
+game= متاح ليوم الجمعه 
 stayinchannel=true 
 songinstatus=false 
