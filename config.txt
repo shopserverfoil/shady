@@ -1,6 +1,6 @@
-token= NDk0NzkzODM3Mjk0NzgwNDE4.DrFAQg.-Xls8tamteIxh3YTqa6EsLZKG7w
-owner= 503324987898200074 
-prefix= s
-game= متاح ليوم الجمعه 
+token= NTA0MzgxODgxMzU0MTU4MTA0.DrF5fw.87RkxizNA8HdUl2aIWBDoZ9qfg0
+owner= 314866432418643969 
+prefix= 1
+game= 1play 
 stayinchannel=true 
 songinstatus=false 
