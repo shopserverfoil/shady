@@ -1,6 +1,6 @@
-token= NTA0MzgxODgxMzU0MTU4MTA0.DrF5fw.87RkxizNA8HdUl2aIWBDoZ9qfg0
+token= NTA0NTEwMTU5OTQ3ODI1MTUz.DrYnhg.bp3pJ2lSenPIi3TQDUkZrPmpRvQ
 owner= 314866432418643969 
-prefix= 1
-game= 1play 
+prefix= br
+game= brplay 
 stayinchannel=true 
 songinstatus=false 
