@@ -1,6 +1,6 @@
 token= NTA0NTEwMTU5OTQ3ODI1MTUz.DrYnhg.bp3pJ2lSenPIi3TQDUkZrPmpRvQ
-owner= 314866432418643969 
-prefix= br
-game= brplay 
+owner= 408136927259131905 
+prefix= 1
+game= Toxic server 
 stayinchannel=true 
 songinstatus=false 
